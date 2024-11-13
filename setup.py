@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "decision-support=main:main",
+            "ahp-gauss=main:main",
         ],
     },
 )
