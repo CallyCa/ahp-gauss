@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão mais técnica e detalhada da documentação para o README:
-
----
-
 # AHP-Gaussian Decision Support Library
 
 ## Overview
