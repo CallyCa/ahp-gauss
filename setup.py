@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="ahp-gauss",
     version="0.1.2",
-    description="Descrição curta do projeto",
+    description="The AHP-Gaussian Decision Support Library is a extensible solution designed for multi-criteria decision-making (MCDM) leveraging both traditional and advanced AHP methodologies",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
